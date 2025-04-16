@@ -3,45 +3,35 @@ The eLearning Platform is a comprehensive Java-based desktop application develop
 
 User Authentication:
 
-Secure login and registration system for Admin and Students.
-
-Password validation and basic session management.
+>Secure login and registration system for Admin and Students.
+>Password validation and basic session management.
 
 Course Management (Admin Panel):
 
-Admin can create, update, delete and assign courses.
-
-Add video lectures, course descriptions, and quiz questions.
-
-Real-time updates to course list with backend sync.
+>Admin can create, update, delete and assign courses.
+>Add video lectures, course descriptions, and quiz questions
+>Real-time updates to course list with backend sync.
 
 Student Dashboard:
 
-View and enroll in available courses.
-
-Watch embedded video lectures.
-
-Attempt quizzes and view scores.
-
-Track overall progress and completion status.
+>View and enroll in available courses.
+>Watch embedded video lectures.
+>Attempt quizzes and view scores.
+>Track overall progress and completion status.
 
 Quiz Module:
 
-Create multiple-choice quizzes for each course.
-
-Auto-score calculation and result tracking.
-
-Feedback system for incorrect answers.
+>Create multiple-choice quizzes for each course.
+>Auto-score calculation and result tracking.
+>Feedback system for incorrect answers.
 
 Progress Tracking:
 
-Tracks each student’s course completion percentage.
-
-Stores quiz scores and history in the database.
+>Tracks each student’s course completion percentage.
+>Stores quiz scores and history in the database.
 
 GUI Interface:
 
-Intuitive, user-friendly design with proper validations.
-
-Separate interfaces for Admin and Student roles.
+>Intuitive, user-friendly design with proper validations.
+>Separate interfaces for Admin and Student roles.
 
